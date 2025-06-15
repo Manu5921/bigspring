@@ -3,59 +3,57 @@ title: Nos Offres
 layout: pricing
 draft: false
 plans:
-- title: Pack Essentiel
-  subtitle: Idéal pour les TPE/PME
-  price: 499
-  type: mois
+- title: Site IA Express
+  subtitle: Idéal pour démarrer rapidement
+  price: 399
+  type: TTC
   features:
-    - Site Web Vitrine
-    - Optimisation SEO de base
-    - Réseaux sociaux (2 plateformes)
-    - Support par email
-    - Rapport mensuel
+    - Site créé par IA en 25 minutes
+    - Design professionnel adaptatif
+    - SEO optimisé automatiquement
+    - Hébergement inclus 1 an
+    - Support français 7j/7
   button:
-    label: Commencer
-    link: "/contact"
+    label: Créer mon site
+    link: "https://website-generator-v2-multi-agents-clean-uq1ff6496.vercel.app/demande-publique"
 
-- title: Pack Business
+- title: Site IA Premium
   subtitle: Pour une présence digitale complète
-  price: 999
-  type: mois
+  price: 599
+  type: TTC
   recommended: true
   features:
-    - Site Web Professionnel
-    - SEO Avancé
-    - Réseaux sociaux (4 plateformes)
-    - Campagnes Google Ads
-    - Support prioritaire
+    - Tout du pack Express
+    - Templates sectoriels (restaurant, coiffeur, etc.)
+    - Intégration réseaux sociaux
     - Analytics avancés
-    - Rapport hebdomadaire
+    - Chat IA intégré
+    - Maintenance 6 mois incluse
   button:
-    label: Découvrir
-    link: "/contact"
+    label: Choisir Premium
+    link: "https://website-generator-v2-multi-agents-clean-uq1ff6496.vercel.app/demande-publique"
 
-- title: Pack Enterprise
-  subtitle: Solution sur mesure
+- title: Solution Entreprise
+  subtitle: Écosystème digital complet
   price: Sur mesure
   type: projet
   features:
-    - Site Web E-commerce/Complexe
-    - SEO Premium
-    - Stratégie marketing complète
-    - Campagnes publicitaires multicanal
+    - Site IA + E-commerce avancé
+    - Workflows automatisés N8N
+    - CRM intégré
+    - Campagnes publicitaires IA
+    - Formation équipe complète
     - Support dédié 24/7
-    - Formation équipe
-    - Consulting stratégique
   button:
-    label: Nous contacter
-    link: "/contact"
+    label: Demander devis
+    link: "https://website-generator-v2-multi-agents-clean-uq1ff6496.vercel.app/demande-publique"
 
 call_to_action:
-  title: Des questions ?
-  content: Contactez-nous pour obtenir un devis personnalisé adapté à vos besoins spécifiques.
+  title: Prêt à révolutionner votre présence digitale ?
+  content: Créez votre site professionnel en 25 minutes avec notre IA. Plus de 2000 entrepreneurs nous font déjà confiance.
   image: '/images/cta.svg'
   button:
     enable: true
-    label: "Nous contacter"
-    link: "/contact"
+    label: "Créer mon site maintenant"
+    link: "https://website-generator-v2-multi-agents-clean-uq1ff6496.vercel.app/demande-publique"
 ---

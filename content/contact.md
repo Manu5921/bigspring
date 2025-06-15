@@ -1,12 +1,12 @@
 ---
-title: "Contact Us"
+title: "Contactez-nous"
 layout: "contact"
 draft: false
 info: 
-  title: Why you should contact us!
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+  title: Pourquoi nous contacter ?
+  description: Obtenez votre site web professionnel en 25 minutes grâce à notre IA révolutionnaire. Notre équipe française vous accompagne dans votre transformation digitale avec une expertise locale et un support réactif.
   contacts: 
-    - "phone: +88 125 256 452"
-    - "Mail: [info@bigspring.com](mailto:info@bigspring.com)"
-    - "Address: 360 Main rd, Rio, Brazil"
+    - "phone: +33 1 23 45 67 89"
+    - "Mail: [contact@bigspring.fr](mailto:contact@bigspring.fr)"
+    - "Address: 123 Avenue des Champs-Élysées, 75008 Paris, France"
 ---
