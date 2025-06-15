@@ -1,11 +1,11 @@
 ---
 banner:
-  title: Propulsez votre entreprise vers le succès digital
-  content: Expertise en marketing digital, SEO et création de sites web pour maximiser votre présence en ligne <br/> et développer votre activité.
+  title: Créez votre site professionnel en 25 minutes avec l'IA
+  content: La première agence digitale 100% automatisée. Payez 399€ TTC et recevez votre site web complet, optimisé SEO et prêt à convertir. <br/> Plus rapide qu'une agence traditionnelle, pour un prix révolutionnaire.
   image: /images/banner-art.svg
   button:
-    label: "Contactez-nous"
-    link: "/contact"
+    label: "Créer mon site en 25 minutes"
+    link: "https://core-platform-staging-6q06uxlwl-emmanuelclarisse-6154s-projects.vercel.app/demande-publique"
 
 # feature
 feature: 
@@ -82,11 +82,11 @@ workflow:
 
 # call_to_action
 call_to_action:
-  title: Prêt à commencer ?
-  content: Contactez-nous dès aujourd'hui pour discuter de votre projet et découvrir comment nous pouvons vous aider à atteindre vos objectifs digitaux.
+  title: Générateur IA - 399€ TTC
+  content: Votre site professionnel livré automatiquement en 25 minutes. Interface moderne, optimisé SEO, prêt à convertir vos visiteurs en clients.
   image: '/images/cta.svg'
   button:
     enable: true
-    label: "Contactez-nous"
-    link: "/contact"
+    label: "Créer mon site maintenant"
+    link: "https://core-platform-staging-6q06uxlwl-emmanuelclarisse-6154s-projects.vercel.app/demande-publique"
 ---
